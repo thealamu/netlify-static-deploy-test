@@ -1,2 +1,2 @@
-# fastio-static-deploy-test
-Static deploy with FastIO test
+# netlify-static-deploy-test
+Static deploy with Netlify test
