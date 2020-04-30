@@ -1,2 +1,4 @@
 # netlify-static-deploy-test
-Static deploy with Netlify test
+Testing static deploy with Netlify.
+
+Hosted [here](https://netlify-static-deploy-test.netlify.app/)
